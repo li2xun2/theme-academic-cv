@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:li2xun2/li2xun2.github.io.git
+	branch = main
