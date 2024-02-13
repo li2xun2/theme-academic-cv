@@ -19,7 +19,7 @@ https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases
 
 买流量
 
-https://us.freecat.cloud/ 这是买流量的网站
+https://us.freecat.cloud/#/register?code=hxU4ZukM 这是买流量的网站
 
 推荐这个100g的
 
